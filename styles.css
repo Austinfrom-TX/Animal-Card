@@ -1,0 +1,30 @@
+.card {
+  width:300px;
+  margin: 5px;
+  border: 1px solid #cccccc;
+  padding: 1em;
+}
+
+li {
+  list-style: none;
+}
+
+.container {
+  width: 270px;
+  border: 1px solid #cccccc;
+  padding: 1em;
+  margin-top: 10px;
+}
+
+img {
+  width:300px;
+  height:200px;
+}
+
+span {
+  font-weight: bold;
+}
+
+h2 {
+  font-family: sans-serif;
+}
